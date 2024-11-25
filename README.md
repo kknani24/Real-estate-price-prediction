@@ -43,7 +43,7 @@ This project builds a state-of-the-art machine learning model for predicting rea
 ## 📈 Modeling
 ### Advanced Techniques
 1. **Algorithms Used**:
-   - Linear Regression (Ridge, Lasso), Decision Trees, and Random Forest Regressors.
+   - Linear Regression,Lasso, Decision Trees,GridSearchCV and Random Forest Regressors.
 2. **Cross-Validation and Evaluation**:
    - Uses `cross_val_score` for model evaluation and selects the best-performing algorithms.
    
